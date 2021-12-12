@@ -1,0 +1,11 @@
+Date&Time: 2021-12-11 11:50:31 Bitcoin: 5 coin total value: 500.00 THB
+Date&Time: 2564-12-11 12:11:28 Bitcoin: 25 coin total value: 2,500.00 THB
+Date&Time: 2564-12-11 12:12:59 Bitcoin: 35 coin total value: 3,500.00 THB
+Date&Time: 2564-12-11 13:39:09 Bitcoin: 10 coin total value: 1,000.00 THB
+Date&Time: 2564-12-11 13:39:27 Bitcoin: 10 coin total value: 1,000.00 THB
+Date&Time: 2564-12-11 13:39:28 Bitcoin: 10 coin total value: 1,000.00 THB
+Date&Time: 2564-12-11 13:43:03 Bitcoin: 90 coin total value: 9,000.00 THB
+Date&Time: 2564-12-11 13:43:03 Bitcoin: 91 coin total value: 9,100.00 THB
+Date&Time: 2564-12-11 13:43:03 Bitcoin: 92 coin total value: 9,200.00 THB
+Date&Time: 2564-12-11 13:43:03 Bitcoin: 93 coin total value: 9,300.00 THB
+Date&Time: 2564-12-11 14:06:05 Bitcoin: 99 coin total value: 9,900.00 THB
