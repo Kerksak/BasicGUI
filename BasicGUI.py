@@ -58,7 +58,7 @@ def sumdata():
 #######################################################
 GUI = Tk()
 GUI.geometry('500x300')
-GUI.title('Basic Program')
+GUI.title('Basic calculator program v.0.0.1')
 
 
 file = PhotoImage(file='images.png')
@@ -68,7 +68,7 @@ IMG.pack()
 L1 = Label(GUI,text='Price Calculation program',font=('Angsana New',30,'bold'),fg='green')
 L1.pack() #.place(x,y), .grid(row=0,column=0)
 
-L2 = Label(GUI,text='Input number of goods',font=('Angsana New',20))
+L2 = Label(GUI,text='Input number of coins',font=('Angsana New',20))
 L2.pack() #.place(x,y), .grid(row=0,column=0)
 
 
@@ -124,7 +124,7 @@ def SummaryData(event):
 	messagebox.showinfo(title,text)
 
 GUI.bind('<F1>',SummaryData)
-
+GUI.bind('<F2>',SummaryData)
 
 E1.focus() # stand by cursor at E1
 GUI.mainloop()
